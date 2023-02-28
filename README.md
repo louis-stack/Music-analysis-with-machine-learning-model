@@ -2,8 +2,11 @@
 A complete machine learning model that aims to extract information from a music input.
 
 My goal : 
-- Detect the name and the author of a music (EVEN a cover)  / Shazam+
-- Detect every music chords
+- Detect the name and the author of a music (EVEN a cover)  / (Shazam+)
+- Detect the genre of a music / (spotify)
 - Detect all music intruments 
-- Generate a music score of each intruments
+- Detect every music chords
+
+Additional features
+- Generate a music sheet of every intruments
 
